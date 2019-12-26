@@ -1,2 +1,2 @@
 # Colab-Papermill-Patch
-This repo is for my Medium article: How to use Papermill in Google Colab. To follow along with the tutorial, copy the link to this repo and paste it in the url feild of File > Open Notebook > Github in Google Colab.
+This repo is for my Medium article: [How to use Papermill in Google Colab](medium.com). To follow along with the tutorial, download or clone this repo. If you donwload it, extract it and then upload the notebooks to your Google Colab.
